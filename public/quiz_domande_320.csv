@@ -1,4 +1,4 @@
-Numero,Domanda,A,B,C,Corretta
+﻿Numero,Domanda,A,B,C,Corretta
 1,La libertà personale è inviolabile e…,"È garantita dalla riserva di giurisdizione: può essere limitata con atto dell’autorità giudiziaria, anche privo di motivazione","In casi di necessità e urgenza l’Autorità di P.S. può adottare provvedimenti provvisori, limitativi della libertà, che devono essere comunicati all’Autorità Giudiziaria per la convalida",È garantita dalla riserva di legge ma non dalla riserva di giurisdizione: può essere limitata nei soli casi e modi previsti dalla legge,B
 2,"Ai sensi dell’art. 13 Cost., la perquisizione locale d’iniziativa della P.G. per la ricerca di armi ed esplosivi (art. 41 TULPS):",Può essere effettuata solo su ordine del PM,Non è mai consentita,Necessita di convalida dell’A.G. entro 48 ore,C
 3,L’intercettazione telefonica:,Può essere disposta liberamente dalla Polizia Giudiziaria,Non è disciplinata dal codice di procedura penale,"Deve essere adottata dall’A.G. con provvedimento motivato, in quanto incide sulla libertà di comunicazione",C
@@ -99,14 +99,11 @@ Numero,Domanda,A,B,C,Corretta
 98,La mappatura dei processi interni all’Amministrazione costituisce un adempimento:,Che segue l’analisi dei rischi “corruttivi”,Che segue la ponderazione dei rischi corruttivi,Che precede l’analisi dei rischi “corruttivi”,C
 99,Quali tra le seguenti non rientra tra le quattro aree a rischio di corruzione comuni e obbligatorie per tutte le Amministrazioni Pubbliche individuate nel primo Piano Nazionale Anticorruzione?,Gestione degli archivi,"Affidamento di lavori, servizi e forniture",Acquisizione e progressione del personale,A
 100,Quali tra questi organismi esercita la vigilanza e il controllo sull’attuazione efficace delle misure di prevenzione della corruzione e sul rispetto delle regole sulla trasparenza?,Il CSM,L’ANAC,L’ENAV,B
-101,"Ciascuna Amministrazione ha l’obbligo di adottare un proprio Codice Interno di Comportamento:
-A) Non sussiste alcun obbligo al riguardo",[RISPOSTA MANCANTE],Ad integrazione degli obblighi e dei doveri contenuti nel Codice Generale di Comportamento adottato con il D.P.R. n.62 del 2013,Le Amministrazioni possono in alternativa adottare un Codice Etico,B
-102,"Il Codice di Comportamento dell’Amministrazione dell’Interno si applica integralmente:
-A) A tutto il personale dell’Amministrazione",[RISPOSTA MANCANTE],"Al personale civile dell’Amministrazione, ai collaboratori ed ai consulenti dell’Amministrazione, ai collaboratori delle imprese fornitrici di beni e servizi o che realizzano opere in favore dell’Amministrazione",Al solo al personale “civile”,B
-103,"Il Patto di integrità del Ministero dell’Interno si applica:
-A) Alle sole procedure di gara sopra soglia",[RISPOSTA MANCANTE],Alle sole procedure sotto soglia,"A tutte le procedure di gara bandite dall’Amministrazione, sopra e sotto soglia",C
-104,"Il Patto di integrità del Ministero dell’Interno prevede obblighi di comportamento:
-A) Per le sole imprese partecipanti alle procedure di gara",[RISPOSTA MANCANTE],Sia per le imprese partecipanti alle procedure di gara sia per la Stazione Appaltante,Sole per la stazione appaltante,B
+101,Ciascuna Amministrazione ha l’obbligo di adottare un proprio Codice Interno di Comportamento,Non sussiste alcun obbligo al riguardo,Ad integrazione degli obblighi e dei doveri contenuti nel Codice Generale di Comportamento adottato con il D.P.R. n.62 del 2013,Le Amministrazioni possono in alternativa adottare un Codice Etico,B
+102,"Il Codice di Comportamento dell’Amministrazione dell’Interno si applica integralmente
+",A tutto il personale dell’Amministrazione,"Al personale civile dell’Amministrazione, ai collaboratori ed ai consulenti dell’Amministrazione, ai collaboratori delle imprese fornitrici di beni e servizi o che realizzano opere in favore dell’Amministrazione",Al solo al personale “civile”,B
+103,Il Patto di integrità del Ministero dell’Interno si applica,Alle sole procedure di gara sopra soglia,Alle sole procedure sotto soglia,"A tutte le procedure di gara bandite dall’Amministrazione, sopra e sotto soglia",C
+104,Il Patto di integrità del Ministero dell’Interno prevede obblighi di comportamento,Per le sole imprese partecipanti alle procedure di gara,Sia per le imprese partecipanti alle procedure di gara sia per la Stazione Appaltante,Sole per la stazione appaltante,B
 105,Il “whistleblowing” è:,Un sistema di comunicazione tra i Responsabili della Prevenzione della Corruzione,Un sistema informatico per la rilevazione dei reati di corruzione,Un istituto di prevenzione della corruzione mutuato dall’esperienza dei Paesi anglosassoni,C
 106,La tutela dell’identità del whistleblower è assicurata:,Tramite sistemi informatici che garantiscono la riservatezza del denunciante,Tramite l’accettazione di segnalazioni in forma anonima,Attraverso la presentazione di segnalazioni sotto falso nome,A
 107,Il Responsabile della Prevenzione della Corruzione e della Trasparenza:,È responsabile penalmente dei reati di corruzione perpetuati nella propria Amministrazione,Vigila sull’efficacia e sull’osservanza del Piano Triennale per la Prevenzione della Corruzione e delle misure di prevenzione in esso indicate,Eroga sanzioni pecuniarie nei confronti del personale che viola il Codice di Comportamento,B
@@ -239,7 +236,7 @@ A) Per le sole imprese partecipanti alle procedure di gara",[RISPOSTA MANCANTE],
 234,Domanda 234 - Per il delitto di estorsione l'arresto è,Facoltativo solo se l'autore del fatto è un cittadino dell'Unione Europea,Obbligatorio ex art. 380 c.p.p.,"Facoltativo, ex art. 381 c.p.p",B
 235,Domanda 235 - In caso di estorsione si procede,D'ufficio,A querela di parte,A querela di parte se non vi sono aggravanti,A
 236,Domanda 236 - Il reato di truffa è,semi offensivo,Pluri offensivo,Mono offensivo,B
-237,Domanda 237 - Il delitto di truffa è un reato proprio?,No,Sì,Può essere sia proprio che comune,B
+237,Domanda 237 - Il delitto di truffa è un reato proprio?,No,Sì,Può essere sia proprio che comune,A
 238,"Domanda 238 - Nel reato di truffa, è prevista la circostanza aggravante speciale",di un ente pubblico,dello Stato,dello Stato o di un altro ente pubblico o dell’Unione Europea,C
 239,"Domanda 239 - Per il caso di truffa, è consentito il fermo ai sensi dell'art. 384, c.p.p.?",No,Sì,A discrezione dell'Autorità Giudiziaria,A
 240,Domanda 240 - Per il delitto di truffa la procedibilità è,D'ufficio,A querela di parte,"A querela di parte, salvo ipotesi di cui al comma 3 dell’art. 640 C.P., nonché ipotesi di cui all’art. 649 bis",C
